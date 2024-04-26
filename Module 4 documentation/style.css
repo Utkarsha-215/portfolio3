@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(54, 75, 58);
+}
+
+h1{
+    background-color: bisque;
+    text-align: center;
+}
+.box{
+    height: 750px;
+    width: 85%;
+    margin-left: 7%;
+    background-color: rgb(216, 211, 216);
+}
+h2{
+    font-size: 40px;
+}
+.img{
+    margin-left: 36%;
+}
+p{
+    font-size: 35px;
+}
+h3{
+    font-size: 30px;
+}
+.box1{
+    height: 720px;
+    width: 85%;
+    margin-left: 7%;
+    background-color: rgb(216, 211, 216);
+}
+.box2{
+    height: 700px;
+    width: 85%;
+    margin-left: 7%;
+    background-color: rgb(216, 211, 216);
+}
+.box3{
+    height: 950px;
+    width: 85%;
+    margin-left: 7%;
+    background-color: rgb(216, 211, 216);
+}
+.box4{
+    height: 900px;
+    width: 85%;
+    margin-left: 7%;
+    background-color: rgb(216, 211, 216);
+}
+.box5{
+    height: 900px;
+    width: 85%;
+    margin-left: 7%;
+    background-color: rgb(216, 211, 216);
+}
